@@ -1,1 +1,3 @@
-# 10E_Voron-2.4-350mm
+At the time of making this, the only Voron 2.4 CAD model available was for the 250mm default size. I reconfigured the model for the 350mm side. This isn't the default configuration and instead has the modifications and color scheme that I was planning to use. If you wish, you can take the original design provided by the Voron design team and swap out the changes that I made. Just thought it might help someone else in the future since I saw that a few people in the discord had asked about a 350mm CAD in the past.
+
+![Voron 2 4 350 and 250](https://user-images.githubusercontent.com/88988273/129493292-3e306fb2-c644-43e6-94cf-310cb6540f73.png)
